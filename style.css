@@ -9,8 +9,7 @@ img{
 
 .icon{
 	fill:currentColor;
-	display: inline-block;
-	font-size: inherit;
+	font-size: 10px;
 	height: 1em;
 	width: 1em;
 	overflow: visible;
