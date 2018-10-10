@@ -7,8 +7,10 @@ img{
 	max-width: 100%
 }
 
-.icon{
-	fill:currentColor;
-	height: 1em;
-	width: 1em;
+.icon {
+  fill: currentColor;
+  display: inline-block;
+  font-size: inherit;
+  height: 1em;
+  overflow: visible;
 }
