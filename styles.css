@@ -1,3 +1,16 @@
-.grid{
-	display: grid;
+body{
+	font-family: 'Playfair Display', serif;
+	font-size: 16px;
+}
+
+img{
+	max-width: 100%
+}
+
+.contact-item{
+	fill:currentColor;
+	display: inline-block;
+	font-size: inherit;
+	height: 1em;
+	overflow: visible;
 }
