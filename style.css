@@ -6,3 +6,11 @@ body{
 img{
 	max-width: 100%
 }
+
+.icon {
+  fill: currentColor;
+  display: inline-block;
+  font-size: inherit;
+  height: 1em;
+  overflow: visible;
+}
