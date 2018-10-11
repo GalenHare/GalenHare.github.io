@@ -43,12 +43,10 @@ a:hover {
 .AHeader{
 	display: flex;
 	justify-content: center;
-	background-image:url(http://i.4cdn.org/wg/1539178894333.jpg)
-	background-size:cover;
+	background-color: #cccccc;
+    background-image: repeating-linear-gradient(blue 50%, blue 10%, blue 50%);
 }
 
 .BHeader{
 	border: 1px	solid black;
-	display: flex;
-	justify-content: center;
 }
