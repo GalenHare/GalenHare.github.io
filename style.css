@@ -3,6 +3,7 @@ body{
 	font-size: 16px;
 	padding: 32px;
 	margin: 40px auto;
+	max-width: 960px;
 	background: rgb(218, 224, 234);
 }
 
@@ -40,9 +41,9 @@ a:hover {
 
 .bulk{
 	display:grid;
-	grid-template-columns: 2fr 5fr;
+	grid-template-columns: 2fr 4fr;
 	grid-gap: 10px;
-	padding: 14px 0;
+	padding: 24px 0;
 }
 
 .AHeader{
@@ -103,11 +104,6 @@ svg{
 
 .job-title{
 	display: flex;
-	justify-content: right;
+	justify-content: space-between;
 	margin-bottom: 20px;
-}
-
-.job{
-	display: flex;
-	flex-direction: column;
 }
