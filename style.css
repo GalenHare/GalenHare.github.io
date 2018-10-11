@@ -1,10 +1,6 @@
 body{
 	font-family: 'Playfair Display', serif;
 	font-size: 16px;
-	padding: 32px;
-	margin: 40px auto;
-	max-width: 960px;
-	background: rgb(218, 224, 234);
 }
 
 img{
@@ -106,4 +102,9 @@ svg{
 	display: flex;
 	justify-content: space-between;
 	margin-bottom: 20px;
+}
+
+.right-column{
+	display: grid;
+	overflow: auto;
 }
