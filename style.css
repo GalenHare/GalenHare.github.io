@@ -33,6 +33,7 @@ a:hover {
 
 .grid{
 	display:grid;
+	background: rgb(220, 229, 244);
 	grid-template-rows: 1fr 4fr;
 	border: 5px	solid white;
 	padding: 50px;
