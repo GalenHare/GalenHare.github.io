@@ -103,7 +103,11 @@ svg{
 
 .job-title{
 	display: flex;
-	justify-content: space-between;
+	justify-content: right;
 	margin-bottom: 20px;
-	flex-wrap: wrap;
+}
+
+.job{
+	display: flex;
+	flex-direction: column;
 }
