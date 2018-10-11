@@ -24,10 +24,11 @@ a:hover {
 }
 
 .grid{
-
+	display:grid;
+	grid-template-rows: 1fr 4fr;
 }
 
-section{
+.bulk{
 	display:grid;
 	grid-template-columns: 1fr 4fr;
 }
