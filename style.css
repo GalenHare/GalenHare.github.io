@@ -44,6 +44,7 @@ a:hover {
 	display: flex;
 	justify-content: center;
 	background-image:url(http://i.4cdn.org/wg/1539178894333.jpg)
+	background-size:cover;
 }
 
 .BHeader{
