@@ -40,7 +40,14 @@ a:hover {
 	padding: 24px 0;
 }
 
-.header{
+.AHeader{
+	display: flex;
+	justify-content: center;
+	background-image:url(http://i.4cdn.org/wg/1539178894333.jpg)
+}
+
+.BHeader{
+	border: 1px	solid black;
 	display: flex;
 	justify-content: center;
 }
