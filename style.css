@@ -14,3 +14,20 @@ img{
   height: 1em;
   overflow: visible;
 }
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.grid{
+
+}
+
+section{
+	display:grid;
+	grid-template-columns: 1fr 4fr;
+}
