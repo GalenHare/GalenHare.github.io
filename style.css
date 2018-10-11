@@ -50,6 +50,10 @@ a:hover {
 	display: flex;
 	justify-content: center;
 	background-image: url("https://www.noupe.com/wp-content/uploads/2009/10/pattern-07.jpg");
+	padding-top: 5px;
+	padding-bottom: 30px; 
+	margin-top:10px;
+	margin-bottom:60px;
 }
 
 .BHeader{
